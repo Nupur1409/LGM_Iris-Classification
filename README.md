@@ -1,1 +1,1 @@
-# LGM_Iris-Classification
+# LGMVIP_Iris-Classification
